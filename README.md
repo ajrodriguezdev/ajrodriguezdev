@@ -142,7 +142,7 @@ Aplicación para administrar productos, existencias, ventas y movimientos de inv
 
 `Java` `Spring Boot` `MySQL`
 
-[Ver proyecto →](ENLACE_REPOSITORIO)
+[Ver proyecto →](https://github.com/ajrodriguezdev/sistema-de-gestion-de-inventario)
 
 </td>
 <td width="50%" valign="top">
@@ -155,7 +155,7 @@ Servicio backend para administrar usuarios, autenticación y operaciones CRUD.
 
 `Java` `Spring Boot` `Spring Security`
 
-[Ver proyecto →](ENLACE_REPOSITORIO)
+[Ver proyecto →](https://github.com/ajrodriguezdev/api-gestion-usuarios)
 
 </td>
 </tr>
@@ -170,7 +170,7 @@ Administración de ingresos, egresos y movimientos financieros.
 
 `Java` `Spring Boot` `SQL`
 
-[Ver proyecto →](ENLACE_REPOSITORIO)
+[Ver proyecto →](https://github.com/ajrodriguezdev/sistema-de-gestion-financiera)
 
 </td>
 <td width="50%" valign="top">
@@ -183,7 +183,7 @@ Exploración de procesos de extracción, transformación y almacenamiento de inf
 
 `Python` `SQL` `ETL`
 
-[Ver proyecto →](ENLACE_REPOSITORIO)
+[Ver proyecto →](https://github.com/ajrodriguezdev/ETL-procesamiento-y-transformacion-de-datos)
 
 </td>
 </tr>
